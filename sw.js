@@ -1,5 +1,5 @@
 /* HUMAM Pro service worker: works offline after the first visit. */
-const VERSION = "humam-pro-v6-ios-pdf-fix2";
+const VERSION = "humam-pro-v6-translate-pro-fix4";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 const CDN = /(^|\.)(cdn\.jsdelivr\.net|cdnjs\.cloudflare\.com|unpkg\.com|esm\.sh|fonts\.googleapis\.com|fonts\.gstatic\.com|tessdata\.projectnaptha\.com)$/;
 
